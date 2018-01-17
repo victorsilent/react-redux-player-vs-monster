@@ -2,6 +2,7 @@
 #### List of libs used on the project:
 *  React
 *  Redux
+*  ReduxDevTools
 *  Bulma
 
 #### Problems with development:
